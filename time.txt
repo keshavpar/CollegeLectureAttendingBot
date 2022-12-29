@@ -1,0 +1,68 @@
+[tup=("ford”, "tata", "mercedez" , “hyundai” ,"hero”,"tata”,"honda")
+print ("\nteterssestexexeeess]icing in Tuplet#tstsnxestereessssare”)
+print (tup)
+
+# Accessing Tuples
+
+print(#'Second Element : {tup[1]}') # Second Element
+
+print(f'Last Element : {tup[-1]}') # Last element
+
+print(f'From 2 to 5 : {tup[2:5]}') # From 2 to 5
+
+}# Adding a Tuple
+
+print ("\nt#*##ssexexccccexeeadding Tuplet**#*###seeeeesseezeezeee
+‘mg hector",)
+
+tuptzad
+
+print(F'After adding {tup}")
+
+‘maruti suzuki", "jaguar")
+
+tup=tup+tups
+
+print(f'After adding another tuple {tup}')
+
+   
+
+ 
+
+BHReplacing in Tuple
+print ("\n escccensocrencocceris
+fruits=("mango” "banana" , "apple"
+print (fruits)
+
+f=list(fruits)
+
++(e), F[1
+fruits:
+print(f"After replacement tuple is {fruits}")
+
+     
+
+***Replacing Tuplet*#######ereseesnennneneeesseene
+
+“grapes”, “mango”)
+
+ 
+
+ 
+  
+
+}#Removing items in Tuple
+
+print (""\n*#saxceesaxxe8s4x%xDeletion in Tuples*###**+sneneanneneannnexnnee”)
+movies=("spiderman" ,"ironman’ piderman")
+print (movies)
+
+m=1ist(movies)
+
+m.remove("spiderman")
+
+movies=tuple(m)
+
+print(f"After Deletion tuple is {movies}")
+
+“batman”, “superman”, "heman™
